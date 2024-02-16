@@ -1,2 +1,3 @@
 - 2024-02-16 14:34:57: refactor(tools): add file system tools (1/4)
 - 2024-02-16 22:52:29: refactor(auth): add API key authentication (2/4)
+- 2024-02-16 21:36:13: refactor(transport): implement stdio fallback (3/4)
