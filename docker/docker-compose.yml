@@ -1,0 +1,35 @@
+version: "3.8"
+
+services:
+  mcp-server:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: mcp-server
+    ports:
+      - "8001:8001"
+    environment:
+      - TRANSPORT=streamable-http
+      - LOG_LEVEL=INFO
+      - RESOURCE_BASE_PATH=/app/data/resources
+    volumes:
+      - ./data:/app/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/api/v1/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+  mcp-server-stdio:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: mcp-server-stdio
+    entrypoint: ["python", "-m", "app.cli", "serve", "--transport", "stdio"]
+    volumes:
+      - ./data:/app/data
+    # This service runs in stdio mode for direct MCP client connections
+
+volumes:
+  mcp_data:
