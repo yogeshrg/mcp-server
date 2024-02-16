@@ -1,1 +1,2 @@
 - 2024-02-16 14:34:57: refactor(tools): add file system tools (1/4)
+- 2024-02-16 22:52:29: refactor(auth): add API key authentication (2/4)
