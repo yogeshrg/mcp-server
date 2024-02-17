@@ -4,3 +4,4 @@
 - 2024-02-16 11:50:57: fix(registry): add capability discovery (4/4)
 - 2024-02-17 10:42:55: test(tools): add code execution tool (1/3)
 - 2024-02-17 11:16:03: fix(resources): add pagination support (2/3)
+- 2024-02-17 21:23:32: chore(transport): add SSE transport support (3/3)
