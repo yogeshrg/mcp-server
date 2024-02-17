@@ -2,3 +2,4 @@
 - 2024-02-16 22:52:29: refactor(auth): add API key authentication (2/4)
 - 2024-02-16 21:36:13: refactor(transport): implement stdio fallback (3/4)
 - 2024-02-16 11:50:57: fix(registry): add capability discovery (4/4)
+- 2024-02-17 10:42:55: test(tools): add code execution tool (1/3)
