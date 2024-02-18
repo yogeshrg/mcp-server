@@ -6,3 +6,4 @@
 - 2024-02-17 11:16:03: fix(resources): add pagination support (2/3)
 - 2024-02-17 21:23:32: chore(transport): add SSE transport support (3/3)
 - 2024-02-18 22:42:33: feat(registry): add load balancing (1/3)
+- 2024-02-18 10:31:45: docs(transport): fix message framing (2/3)
