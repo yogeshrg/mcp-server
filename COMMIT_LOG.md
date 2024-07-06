@@ -10,3 +10,4 @@
 - 2024-02-18 13:39:40: chore(resources): update dependencies (3/3)
 - 2024-07-06 10:04:19: test(auth): add API key authentication (1/4)
 - 2024-07-06 14:41:04: docs(auth): add rate limit per key (2/4)
+- 2024-07-06 11:49:08: fix(resources): add pagination support (3/4)
