@@ -8,3 +8,4 @@
 - 2024-02-18 22:42:33: feat(registry): add load balancing (1/3)
 - 2024-02-18 10:31:45: docs(transport): fix message framing (2/3)
 - 2024-02-18 13:39:40: chore(resources): update dependencies (3/3)
+- 2024-07-06 10:04:19: test(auth): add API key authentication (1/4)
