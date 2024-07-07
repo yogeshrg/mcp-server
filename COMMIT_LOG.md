@@ -13,3 +13,4 @@
 - 2024-07-06 11:49:08: fix(resources): add pagination support (3/4)
 - 2024-07-06 11:20:59: test(transport): implement stdio fallback (4/4)
 - 2024-07-07 17:17:08: refactor(transport): implement stdio fallback (1/4)
+- 2024-07-07 18:09:10: test(transport): implement stdio fallback (2/4)
