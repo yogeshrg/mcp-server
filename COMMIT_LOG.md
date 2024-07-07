@@ -15,3 +15,4 @@
 - 2024-07-07 17:17:08: refactor(transport): implement stdio fallback (1/4)
 - 2024-07-07 18:09:10: test(transport): implement stdio fallback (2/4)
 - 2024-07-07 19:13:49: Revert "add connection pooling" (3/4)
+- 2024-07-07 13:30:15: chore(auth): add rate limit per key (4/4)
