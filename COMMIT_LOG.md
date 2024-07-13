@@ -20,3 +20,4 @@
 - 2024-07-13 22:22:25: chore(resources): implement resource subscriptions (2/5)
 - 2024-07-13 10:17:28: feat(registry): implement server health checks (3/5)
 - 2024-07-13 15:15:55: refactor(transport): fix message framing (4/5)
+- 2024-07-13 17:29:31: fix(resources): add resource templates (5/5)
