@@ -18,3 +18,4 @@
 - 2024-07-07 13:30:15: chore(auth): add rate limit per key (4/4)
 - 2024-07-13 15:30:29: chore(transport): add SSE transport support (1/5)
 - 2024-07-13 22:22:25: chore(resources): implement resource subscriptions (2/5)
+- 2024-07-13 10:17:28: feat(registry): implement server health checks (3/5)
