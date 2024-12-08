@@ -23,3 +23,4 @@
 - 2024-07-13 17:29:31: fix(resources): add resource templates (5/5)
 - 2024-12-08 12:51:25: test(resources): implement resource subscriptions (1/3)
 - 2024-12-08 23:12:28: docs(auth): add API key authentication (2/3)
+- 2024-12-08 21:45:51: chore(transport): implement stdio fallback (3/3)
