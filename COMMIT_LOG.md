@@ -25,3 +25,4 @@
 - 2024-12-08 23:12:28: docs(auth): add API key authentication (2/3)
 - 2024-12-08 21:45:51: chore(transport): implement stdio fallback (3/3)
 - 2024-12-14 13:42:55: refactor(resources): add resource templates (1/3)
+- 2024-12-14 10:22:22: docs(registry): add load balancing (2/3)
