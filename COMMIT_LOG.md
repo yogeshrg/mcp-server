@@ -27,3 +27,4 @@
 - 2024-12-14 13:42:55: refactor(resources): add resource templates (1/3)
 - 2024-12-14 10:22:22: docs(registry): add load balancing (2/3)
 - 2024-12-14 14:07:15: test(registry): add capability discovery (3/3)
+- 2024-12-15 11:36:24: test(tools): implement tool timeout (1/4)
