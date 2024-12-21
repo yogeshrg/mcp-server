@@ -33,3 +33,4 @@
 - 2024-12-15 15:43:31: test(auth): add rate limit per key (4/4)
 - 2024-12-21 12:18:02: test(transport): add SSE transport support (1/3)
 - 2024-12-21 21:49:31: fix(resources): implement resource subscriptions (2/3)
+- 2024-12-21 22:23:34: feat(registry): implement server health checks (3/3)
