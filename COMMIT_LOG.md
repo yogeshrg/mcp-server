@@ -35,3 +35,4 @@
 - 2024-12-21 21:49:31: fix(resources): implement resource subscriptions (2/3)
 - 2024-12-21 22:23:34: feat(registry): implement server health checks (3/3)
 - 2025-04-20 20:44:18: chore(tools): add web search tool (1/4)
+- 2025-04-20 14:58:51: Revert "add load balancing" (2/4)
