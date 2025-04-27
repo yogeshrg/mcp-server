@@ -38,3 +38,4 @@
 - 2025-04-20 14:58:51: Revert "add load balancing" (2/4)
 - 2025-04-20 10:15:22: docs(transport): implement stdio fallback (3/4)
 - 2025-04-20 12:44:04: docs(resources): add resource templates (4/4)
+- 2025-04-27 11:56:26: docs(transport): fix message framing (1/2)
