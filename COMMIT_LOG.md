@@ -44,3 +44,4 @@
 - 2025-05-03 18:57:30: feat(registry): implement server health checks (2/5)
 - 2025-05-03 10:21:13: test(tools): implement tool timeout (3/5)
 - 2025-05-03 12:06:03: refactor(registry): add load balancing (4/5)
+- 2025-05-03 15:05:18: fix(auth): add API key authentication (5/5)
