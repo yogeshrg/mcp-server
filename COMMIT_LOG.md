@@ -47,3 +47,4 @@
 - 2025-05-03 15:05:18: fix(auth): add API key authentication (5/5)
 - 2025-05-04 10:30:54: fix(transport): implement stdio fallback (1/2)
 - 2025-05-04 19:34:24: docs(auth): add rate limit per key (2/2)
+- 2025-09-06 19:47:35: docs(resources): add resource templates (1/2)
