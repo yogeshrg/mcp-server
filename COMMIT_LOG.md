@@ -50,3 +50,4 @@
 - 2025-09-06 19:47:35: docs(resources): add resource templates (1/2)
 - 2025-09-06 09:59:24: test(tools): add code execution tool (2/2)
 - 2025-09-07 22:49:55: chore(transport): add connection pooling (1/2)
+- 2025-09-07 21:46:12: test(registry): add load balancing (2/2)
